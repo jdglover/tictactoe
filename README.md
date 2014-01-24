@@ -1,6 +1,8 @@
 tictactoe
 =========
 
+Written in Python 2.7.5.
+
 A simple tic-tac-toe game
 
 
