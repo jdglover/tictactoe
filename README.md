@@ -6,11 +6,11 @@ Written in Python 2.7.5.
 A simple tic-tac-toe game
 
 
-This is a simple tic-tac-toe game I created over the weekend in order to break up the monotony of dissertation writing.
+This is a simple tic-tac-toe game I created over the weekend in order to take a break from dissertation writing.
 
 The present version allows you to play human vs. computer.  You may choose who goes first.  The first player is always 'X'.
 
-If I ever get inspired to pick this back up, a future version would also have a human vs. human option.  I would also like to beef up the AI a bit.
+If I ever get inspired to pick this back up, a future version would also have a human vs. human option.  I would also like to beef up the AI a bit and clean up the approach to checking for wins.
 
 Enjoy!
 
